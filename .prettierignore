@@ -7,3 +7,12 @@ bun.lockb
 
 # Miscellaneous
 /static/
+
+# Generated AI tool docs (managed by `sv add ai-tools`)
+/.gemini/
+/.github/skills/
+/.github/agents/
+/.opencode/
+
+# Original single-file prototype, kept for reference (not valid enough to format)
+/kinetic_ar_video_canvas_harp_strings_contours_radar.html
